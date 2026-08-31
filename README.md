@@ -10,7 +10,7 @@
 
 🔭 Software Engineer Intern at Johns Hopkins Applied Physics Laboratory
 
-🌐 Undergraduate AI Researcher at Software Analytics and Pervasive Parallelism Lab (SwAPP) at Iowa State University
+🌐 Previous Software Engineer CO-OP at MIT Lincoln Laboratory
 
 🤝 Interested in AI/ML, HPC, and Embedded Systems
 
