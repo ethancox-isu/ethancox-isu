@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 📚 Computer Science student at Iowa State University
 
-🔭 Software Engineer Intern at Johns Hopkins Applied Physics Laboratory
+🔭 Software Engineer CO-OP at Johns Hopkins Applied Physics Laboratory
 
 🌐 Previous Software Engineer CO-OP at MIT Lincoln Laboratory
 
