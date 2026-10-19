@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20Ethan🚀&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%2C%20I%27m%20Ethan&fontSize=60)
 
 **Computer Science student building AI and ML systems for high-performance and mission-critical applications.**
 
@@ -98,5 +98,7 @@ I'm a Computer Science student at **Iowa State University**, graduating May 2028
 <div align="center">
 
 *Open to internships in ML systems, AI, and software engineering.* **[Get in touch →](mailto:ethancox@iastate.edu)**
+
+![ethancox-isu github streak](https://github-readme-streak-stats.herokuapp.com/?user=ethancox-isu&theme=radical&include_all_commits=true&count_private=true)
 
 </div>
