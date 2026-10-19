@@ -8,11 +8,11 @@
 ## 👨‍💻 About Me
 📚 Computer Science student at Iowa State University
 
-🔭 Software Engineer CO-OP at Johns Hopkins Applied Physics Laboratory
+🔭 AI Research Assistant at Software Analytics and Pervasive Parallelism Lab
 
-🌐 Previous Software Engineer CO-OP at MIT Lincoln Laboratory
+🌐 Software Engineer CO-OP at Johns Hopkins Applied Physics Laboratory
 
-🤝 Interested in AI/ML, HPC, and Embedded Systems
+🤝 Previous Software Engineer CO-OP at MIT Lincoln Laboratory
 
 
 ## 🛠️ Tech Stack & Services
