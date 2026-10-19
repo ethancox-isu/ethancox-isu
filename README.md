@@ -17,29 +17,41 @@
 
 ## 🛠️ Tech Stack & Services
 <p>
-  <!-- Languages & Frameworks -->
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <!-- Programming Languages -->
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /></a>
+  <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
+
+  <!-- AI / ML -->
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img alt="DGL" src="https://img.shields.io/badge/DGL-GNNs-0A66C2?style=for-the-badge" /></a>
+  <a href="#"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /></a>
+  <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img alt="Autogen" src="https://img.shields.io/badge/Autogen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></a>
+
+  <!-- Frameworks & Data -->
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="#"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /></a>
+  <a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /></a>
+  <a href="#"><img alt="Fivetran" src="https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logoColor=white" /></a>
 
-  <!-- Runtime & Package Managers -->
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-
-  <!-- Infrastructure & Services -->
+  <!-- Systems & Infrastructure -->
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="#"><img alt="Portainer" src="https://img.shields.io/badge/Portainer-0E7490?style=for-the-badge&logo=portainer&logoColor=white" /></a>
-  <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-  <a href="#"><img alt="Vultr" src="https://img.shields.io/badge/Vultr-007BFA?style=for-the-badge&logo=vultr&logoColor=white" /></a>
-  <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="#"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
 
   <!-- Version Control & CI/CD -->
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
+  <a href="#"><img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
 
 -------------------
