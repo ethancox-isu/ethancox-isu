@@ -52,7 +52,7 @@ I'm a Computer Science student at **Iowa State University**, graduating May 2028
 </p>
 -->
 
-## 🛠️ Tech Stack & Services
+## 🛠️ Tech Stack
 
 <p>
   <!-- Programming Languages -->
@@ -88,10 +88,6 @@ I'm a Computer Science student at **Iowa State University**, graduating May 2028
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
-
-## 🎓 Education
-
-**Iowa State University**: B.S. Computer Science, Minor in Applied Mathematics (Expected May 2028), 3.83 GPA
 
 -------------------
 
