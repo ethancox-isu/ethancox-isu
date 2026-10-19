@@ -37,7 +37,7 @@ I'm a Computer Science student at **Iowa State University**, graduating May 2028
 
 ## 📄 Publication
 
-**[A Multi-Agent Approach to Validating Systems Models](LINK-TO-OFFICIAL-PAPER-OR-DOI)**, INCOSE International Symposium, 2026. Co-authored with MIT Lincoln Laboratory and the MIT LL Supercomputing Center.
+**[A Multi-Agent Approach to Validating Systems Models](https://incose.onlinelibrary.wiley.com/doi/full/10.1002/iis2.70121)**, INCOSE International Symposium, 2026. Co-authored with MIT Lincoln Laboratory and the MIT LL Supercomputing Center.
 
 > Multi-agent AI that validates MBSE models on-premise with a small language model, outperforming human engineers in speed and average correctness on a CubeSat case study.
 
